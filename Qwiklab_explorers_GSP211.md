@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Getting-Started-with-Cloud-Shell-and-gcloud-GSP002/refs/heads/main/qwiklab_explorers_gsp002.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Multiple-VPC-Networks-GSP211/refs/heads/main/qwiklab_explorers_gsp211.sh
 
-sudo chmod +x qwiklab_explorers_gsp002.sh
+sudo chmod +x qwiklab_explorers_gsp211.sh
 
-./qwiklab_explorers_gsp002.sh
+./qwiklab_explorers_gsp211.sh
 ```
 
 ---
